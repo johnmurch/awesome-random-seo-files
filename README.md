@@ -15,3 +15,5 @@ Data dump of toysrus.com URLs that have existed in the past
 * __kleinfeldbridal.com__ - Dump of sitemaps and all URLs in those sitemaps - 1621 URLs
 
 * __moz.com__ - Dump of sitemaps and all URLs in those sitemaps - 5391 URLs
+
+* __domains.json__ - Random list of domains
