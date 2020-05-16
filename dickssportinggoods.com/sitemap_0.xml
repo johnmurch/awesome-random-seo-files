@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/sitemap_main.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/sitemap_products.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/sitemap_products_2.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/sitemap_products_3.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/products/sitemap_catfam.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/products/sitemap_custom.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/products/sitemap_hypercat.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.dickssportinggoods.com/seo_sitemap_hypercat.xml</loc>
+	</sitemap>
+</sitemapindex>

@@ -1,0 +1,4 @@
+https://www.ae.com/sitemap.xml
+https://www.ae.com/us/en/ugp-category-sitemap.xml
+https://www.ae.com/us/en/ugp-product-sitemap.xml
+https://www.ae.com/us/en/ugp-static-sitemap.xml

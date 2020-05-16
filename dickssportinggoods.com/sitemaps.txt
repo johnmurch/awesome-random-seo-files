@@ -1,0 +1,9 @@
+https://www.dickssportinggoods.com/sitemap.xml
+https://www.dickssportinggoods.com/sitemap_main.xml
+https://www.dickssportinggoods.com/sitemap_products.xml
+https://www.dickssportinggoods.com/sitemap_products_2.xml
+https://www.dickssportinggoods.com/sitemap_products_3.xml
+https://www.dickssportinggoods.com/products/sitemap_catfam.xml
+https://www.dickssportinggoods.com/products/sitemap_custom.xml
+https://www.dickssportinggoods.com/products/sitemap_hypercat.xml
+https://www.dickssportinggoods.com/seo_sitemap_hypercat.xml
