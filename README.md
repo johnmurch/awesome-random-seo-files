@@ -16,4 +16,6 @@ Data dump of toysrus.com URLs that have existed in the past
 
 * __moz.com__ - Dump of sitemaps and all URLs in those sitemaps - 5391 URLs
 
-* __domains.json__ - Random list of domains
+* __domains/domains.json__ - Random list of domains
+
+* __domains/top500Domains.csv__ - List from [https://moz.com/top500](https://moz.com/top500)
