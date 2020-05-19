@@ -18,6 +18,8 @@ Data dump of toysrus.com URLs that have existed in the past
 
 * __abercrombie.com__ - Dump of sitemaps and all URLs in those sitemaps - 56940 URLs
 
+* __etsy.com__ - Dump of sitemaps and all URLs in those sitemaps - 7399 sitemaps (a few empty and a 403 🤷‍♂️) and 1712701 URLs
+
 * __domains/domains.json__ - Random list of domains
 
 * __domains/top500Domains.csv__ - List from [https://moz.com/top500](https://moz.com/top500)
