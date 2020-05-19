@@ -1,6 +1,7 @@
 # awesome-random-seo-files
 Random SEO File Dumps
 
+Also be sure to checkout [https://github.com/johnmurch/all-the-serps](https://github.com/johnmurch/all-the-serps) as I dump SERP data in there :) 
 
 
 * __archive.org-toysrus.com.csv__ -
